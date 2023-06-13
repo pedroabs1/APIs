@@ -1,22 +1,23 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#f8e136",
-        "activityBar.background": "#f8e136",
-        "activityBar.foreground": "#15202b",
-        "activityBar.inactiveForeground": "#15202b99",
-        "activityBarBadge.background": "#059a88",
-        "activityBarBadge.foreground": "#e7e7e7",
-        "commandCenter.border": "#15202b99",
-        "sash.hoverBorder": "#f8e136",
-        "statusBar.background": "#f2d709",
-        "statusBar.foreground": "#15202b",
-        "statusBarItem.hoverBackground": "#c1ab07",
-        "statusBarItem.remoteBackground": "#f2d709",
-        "statusBarItem.remoteForeground": "#15202b",
-        "titleBar.activeBackground": "#f2d709",
-        "titleBar.activeForeground": "#15202b",
-        "titleBar.inactiveBackground": "#f2d70999",
-        "titleBar.inactiveForeground": "#15202b99"
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f",
+        "minimap.background": "#00000000",
+        "scrollbar.shadow": "#00000000",
+        "activityBar.background": "#e8a0e6",
+        "titleBar.activeBackground": "#e8a0e6",
+        "titleBar.activeForeground": "#000000",
+        "titleBar.inactiveBackground": "#e8a0e6",
+        "titleBar.inactiveForeground": "#000000",
+        "titleBar.border": "#e8a0e6",
+        "activityBar.foreground": "#000000",
+        "statusBar.background": "#e8a0e6",
+        "statusBar.foreground": "#000000",
+        "statusBar.debuggingBackground": "#e8a0e6",
+        "statusBar.debuggingForeground": "#000000",
+        "tab.activeBorder": "#e8a0e6",
+        "iLoveWorkSpaceColors": true,
+        "iLoveWorkSpaceRandom": false
     },
-    "peacock.color": "#f2d709"
+    "vscode-as-git-mergetool.settingsAssistantOnStartup": false
 }

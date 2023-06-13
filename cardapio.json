@@ -29,7 +29,7 @@
     {
         "titulo": "X Pronto Socorro",
         "descricao":"2 Super hamburgueres de 200gr com têmpero caseiro especial\n300gr de batata frita palito sequinha com flor de sal do himalaia\nSuper porção de cheddar\nCom Bacon ralado crocante a vontade\n2 Pães de hamburguer especial fabricação própria\nMolho requintado com especiarias da casa\nCebolas caramelizadas\nCreme de alho a vontade",
-        "preco": "¨69,90",
+        "preco": "69,90",
         "imagem": "img/lanche batata.png",
         "alt": "Imagem X Pronto Socorro",
         "categoria": "Lanches"
